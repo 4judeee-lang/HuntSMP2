@@ -1,0 +1,30 @@
+HuntSMP Crimson Blade 1.22.1
+Paper 1.21.11 / Java 21
+
+SERVER
+1. Stop the server.
+2. Keep HuntSMP-1.21.1.jar installed.
+3. Put HuntSMP-Crimson-1.22.1.jar in the server's plugins folder.
+4. Upload HuntSMP-Pack-1.22.1.zip to a direct HTTPS download URL.
+5. Configure HuntSMP to use that URL and this SHA-1:
+   9d00bb63ffcc2a17bd30a1f7d0dae4957c0b054a
+6. Restart the server and accept the resource pack.
+
+COMMANDS
+/hunt altar give Crimson
+/hunt altar spawn Crimson
+
+ABILITY
+Hold the Crimson Blade in the main hand and press F/offhand swap to fire the beam.
+
+RECIPE
+3 Wither Skeleton Skulls
+1 Nether Star
+64 Crimson Nylium
+3 Netherite Ingots
+32 Quartz Blocks
+
+VISUAL SOURCE
+The source archive contains the complete resource-pack overlay, full-resolution
+transparent source, production PNGs, all 16 aura frames, Blockbench source,
+regeneration script, model JSON, item definitions, mcmeta, and QA checklist.
